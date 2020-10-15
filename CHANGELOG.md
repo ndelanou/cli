@@ -1,3 +1,18 @@
+## v7.0.0 (2020-10-15)
+
+### BUG FIXES
+
+* [`b29cbd820`](https://github.com/npm/cli/commit/b29cbd820907753118ff80c2286d0271dbf1ec7d) [#1956](https://github.com/npm/cli/pull/1956) Handle errors from audit endpoint appropriately ([@isaacs](https://github.com/isaacs))
+
+### DOCUMENTATION
+
+* [`f166a3264`](https://github.com/npm/cli/commit/f166a3264ca718363c01e0f97fcc7a9847a0c4ea) [`e51726efc`](https://github.com/npm/cli/commit/e51726efc1358c84017e3da48abbc15808df911b) [#1954]() Adds docs on workspaces, explaining its basic concept and how to use it. ([@ruyaadrno](https://github.com/ruyadorno))
+
+### DEPENDENCIES
+
+* [`c5c63701d`](https://github.com/npm/cli/commit/c5c63701d779b2954fa7e61e02aba90f81cfab3d)
+  `node-gyp@7.1.1`
+
 ## v7.0.0 (2020-10-12)
 
 ### BUG FIXES
